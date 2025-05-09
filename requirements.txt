@@ -3,7 +3,6 @@ pandas==2.2.3
 json5
 streamlit
 pandas
-json
 re
 transformers
 torch
