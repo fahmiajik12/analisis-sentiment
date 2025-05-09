@@ -1,0 +1,9 @@
+streamlit
+pandas
+json
+re
+transformers
+torch
+matplotlib
+seaborn
+wordcloud
