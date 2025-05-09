@@ -1,5 +1,6 @@
-pip install --upgrade pip
-
+streamlit==1.45.0
+pandas==2.2.3
+json5
 streamlit
 pandas
 json
